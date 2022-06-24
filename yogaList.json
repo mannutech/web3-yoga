@@ -1,0 +1,41 @@
+[
+    {
+        "mediaId": "ramdev_guided_yoga_10_poses_6WUFIwk9Owc",
+        "title": "10 Yoga Poses for Beginners",
+        "mediaUrl": "https://www.youtube.com/watch?v=6WUFIwk9Owc",
+        "author": "Baba Ramdev",
+        "durationInSeconds": "320",
+        "language": "hi",
+        "tags": [
+            "guided",
+            "yoga",
+            "beginner"
+        ]
+    },
+    {
+        "mediaId": "isha_upa_yoga_hindi_YiTg8S5w3G0",
+        "title": "Isha Upa Yoga Practices",
+        "mediaUrl": "https://www.youtube.com/watch?v=YiTg8S5w3G0",
+        "author": "Isha Foundation",
+        "durationInSeconds": "5246",
+        "language": "hi",
+        "tags": [
+            "guided",
+            "yoga",
+            "beginner"
+        ]
+    },
+    {
+        "mediaId": "isha_upa_yoga_english_YiTg8S5w3G0",
+        "title": "Isha Upa Yoga Practices",
+        "mediaUrl": "https://www.youtube.com/watch?v=Jf5qUhz-FVk",
+        "author": "Isha Foundation",
+        "durationInSeconds": "5211",
+        "language": "en",
+        "tags": [
+            "guided",
+            "yoga",
+            "beginner"
+        ]
+    }
+]
